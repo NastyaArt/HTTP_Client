@@ -1,0 +1,4 @@
+CONNECT localhost:80 HTTP/1.1
+Host: localhost:80
+User-Agent: HTTPClient
+

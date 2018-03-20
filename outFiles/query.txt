@@ -1,0 +1,4 @@
+GET /denwer/index.html HTTP/1.0
+Host: localhost:80
+User-Agent: HTTPClient
+
